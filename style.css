@@ -4,9 +4,6 @@
     padding: 0%;
     
 }
-button:hover{
-backgroud-color : #4ac95f
-}
 a {
      text-decoration: none;
      color: #CC4156
@@ -73,6 +70,9 @@ body{
    font-size:x-large;
    font-weight: 100%;
    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button:hover{
+    background-color: #57d46c;
 }
 .mid{
     height:100vh;
